@@ -1,3 +1,5 @@
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
 # Automating Initial Project Flow
 
 I just don't wana to do common regular steps to start new project in
