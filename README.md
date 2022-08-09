@@ -15,7 +15,7 @@ It's interesting na, I felt the same this script saves lot of time for me.
 
 ## Working Demo
 
-Add working demo video here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZVns0Co-ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
 
