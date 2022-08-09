@@ -14,7 +14,7 @@ in my mac.
 It's interesting na, I felt the same this script saves lot of time for me.
 
 ## Working Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qZVns0Co-ig)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qZVns0Co-ig/0.jpg)](https://www.youtube.com/watch?v=qZVns0Co-ig)
 
 ## Installation
 
